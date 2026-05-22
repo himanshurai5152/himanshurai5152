@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Himanshu Rai
 ### Data Analyst | Data Science Enthusiast | Python Developer
 
-# 💫 About Me:
 ## 👨‍💻 About Me<br><br>- 🎓 B.Tech Computer Science student with specialization in Data Science  <br>- 📊 Passionate about Data Analytics, Machine Learning & Business Intelligence  <br>- 🐍 Skilled in Python, SQL, Advanced Excel, Pandas, NumPy & Power BI  <br>- 📈 Experienced in Data Cleaning, Data Visualization & Predictive Modeling  <br>- 📑 Proficient in Dashboard Creation, Reporting & Data Interpretation  <br>- 🧠 Familiar with Machine Learning algorithms and statistical analysis  <br>- 🛠 Worked with libraries and tools like Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn & OpenCV  <br>- 📂 Built real-world projects on Stock Market Analysis, Yelp Data Analysis & Business Insights  <br>- 🚀 Currently working on Data Science, Analytics and Machine Learning projects  <br>- 🌱 Currently learning Advanced Machine Learning, Deep Learning & Data Visualization  <br>- 💡 Interested in transforming raw data into actionable business insights  <br>- 🤝 Open to internships, collaborations and Data Analyst opportunities  <br>- ⚡ Fun fact: I enjoy discovering hidden patterns and trends from datasets
 
 
